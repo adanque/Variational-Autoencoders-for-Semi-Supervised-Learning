@@ -27,7 +27,7 @@ Using variational autoencoding to identify labels in an unsupervised learning mo
 
 | File Name  | Description |
 | ------ | ------ |
-| run_assignment_wk_12.py | Implements a variational autoencoder using keras |
+| run_Variational_Autoencoder_Using_Keras.py | Implements a variational autoencoder using keras |
 
 ## Results
 
